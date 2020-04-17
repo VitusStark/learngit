@@ -1,2 +1,2 @@
-git is a simple and strongeri.
-test push.
+git is a simple and stronger.
+test dev push to origin/dev.
